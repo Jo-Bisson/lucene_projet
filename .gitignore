@@ -1,0 +1,11 @@
+# Fichiers Java compilés et archives
+*.class
+*.jar
+*.war
+bin/
+target/
+out/
+
+# Dossiers locaux VS Code et données volumineuses
+.vscode/
+index_*/
